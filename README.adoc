@@ -1,0 +1,13 @@
+NUT-SWAG
+========
+
+This repository is dedicated to various (primarily graphical) resources
+which may be used to create memorabilia items related to the Network UPS
+Tools project (NUT), such as swag for the NUT community memebers to
+distribute on conferences (maybe in exchange for contributions of code,
+promotion, money, or other resources), or just to print and keep privately.
+
+Being derived from resources long available in the main NUT source code
+and documentation, this is licensed under the same terms: GNU General
+Public License (GPL) version 2, or (at your option) any later version.
+See "LICENSE-GPL2" in the root of this repository or any NUT distribution.
