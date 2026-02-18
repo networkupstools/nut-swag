@@ -3,7 +3,7 @@ NUT-SWAG
 
 This repository is dedicated to various (primarily graphical) resources
 which may be used to create memorabilia items related to the Network UPS
-Tools project (NUT), such as swag for the NUT community memebers to
+Tools project (NUT), such as swag for the NUT community members to
 distribute on conferences (maybe in exchange for contributions of code,
 promotion, money, or other resources), or just to print and keep privately.
 
