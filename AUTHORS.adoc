@@ -1,0 +1,101 @@
+NUT-related media authorship
+============================
+
+Some resources in this repository were copied from
+https://github.com/networkupstools/nut and/or nut-website
+and so are naturally licensed under GPLv2+ same as the project.
+
+Others were deliberately created as NUT swag (stickers, shirt
+designs), presentations, and similar media, and published
+under the same license, unless a different one is stipulated
+by third-party design components used in the final images.
+
+This file tries to track down specific contributors of these
+images and other works of art.
+
+
+NUT Logos
+---------
+
+Nut-and-bolt logo variants
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Images originated from
+https://github.com/networkupstools/nut/tree/master/docs/images
+
+The original `nut.svg` (small vector image on an A4-sized page) and
+`nut-logo.png` (60x60 square fixed-resolution export) was designed
+by Luc Descotils, from Eaton, with inputs from Arnaud Quette, in 2011
+or earlier.
+
+The `nut-trimmed.svg` (square vector image) was cropped in 2026 by
+Jim Klimov, and `nut-logo-github.png` (400x400 square fixed-resolution
+export) was done in 2023 or earlier.
+
+QR logo
+~~~~~~~
+
+The `nut-org-qr-squares.svg` was generated in 2026 by Jim Klimov,
+to be used instead of `shirt-2025/shirt-shoulder-2.svg` which proved
+to be poorly scannable by some phones.
+
+Electric pulse
+~~~~~~~~~~~~~~
+
+Images originated from
+https://github.com/networkupstools/nut/tree/master/docs/images
+
+The `nut-logos/nut-banner.png` image (not to be mistaken for same-named
+file in NUT CGI sources with a bland name-plaque) appeared in 2009 or
+before as part of NUT v2.4.2 web-site effort (as much as could be
+identified with clues left by the SVN source conversion).
+
+Authorship uncertain, inputs welcome.
+
+Jenkins+NUT logo
+~~~~~~~~~~~~~~~~
+
+Used by the NUT CI farm, presentations for the Jenkins Contributor
+Summit, maintianer hoodie, etc. the different variations of the
+image were designed in 2022 by Jim Klimov, based on
+https://www.jenkins.io/artwork/#hyderabad (uploaded by Urvah Shabbir,
+image authorship however seems uncertain)
+via https://www.jenkins.io/artwork/#jenkins-with-plate-basis clean-up
+(by Jim Klimov).
+
+Licensed same as Jenkins Artwork media, under the terms of
+link:https://creativecommons.org/licenses/by-sa/3.0/[Creative Commons
+Attribution-ShareAlike 3.0 Unported License]. Note that BY-SA version
+4.0 is one-way compatible with GPLv3, but version 3.0 used here does not
+declare that so far; for more details about the fine print please see
+https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses/
+
+
+T-Shirt/Hoodie prints
+---------------------
+
+Designed in 2025, slightly updated in 2026 (added URLs on front side),
+by Jim Klimov as maintainer, for the NUT project representation on FOSDEM
+and elsewhere.
+
+Utilizes many of the logos listed above, as well as third-party logos
+from OS vendors. Introduced the "Any computer sleep powered by NUT" puzzle
+design.
+
+
+Stickers
+--------
+
+The "Powered by some UPS, protected by NUT" sticker designed in 2026
+by Jim Klimov.
+
+Variants of "Any computer sleep powered by NUT" puzzle sticker designed
+in 2026 by Jim Klimov based on his design for T-Shirt/Hoodie print from
+2025.
+
+
+Presentations
+-------------
+
+"NUT and Jenkins-dynamatrix" for pre-FOSDEM Jenkins Contributor Summit
+(variants from 2025 and 2026) by Jim Klimov in those years.
