@@ -28,7 +28,7 @@ The original `nut.svg` (small vector image on an A4-sized page) and
 by Luc Descotils, from Eaton, with inputs from Arnaud Quette, in 2011
 or earlier.
 
-The `nut-trimmed.svg` (square vector image) was cropped in 2026 by
+The `nut-squared.svg` (square vector image) was cropped in 2026 by
 Jim Klimov, and `nut-logo-github.png` (400x400 square fixed-resolution
 export) was done in 2023 or earlier.
 
